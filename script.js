@@ -40,12 +40,7 @@ let height = window.innerHeight;
 let textSize = 0;
 let textCenter = 0;
 const letters = [];
-const prompt = [
-  'k','e','t','i','k','k',' ',
-  's','e','s','u','a','t','u',' ',
-  'd','i','s','i','n','i',' ',
-  'b','y'
-];
+const prompt = "happy new year sayangg.. wish nya ketik disini yaa... love youu".split('');
 
 let runPrompt = true;
 
